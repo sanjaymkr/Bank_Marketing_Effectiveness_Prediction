@@ -1,0 +1,2 @@
+# Bank_Marketing_Effectiveness_Prediction
+Bank Marketing Effectiveness Prediction Analysis
