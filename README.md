@@ -7,27 +7,26 @@
 
 4. The purpose of this project is to predict if the client on call would accept to make a term deposit or not based on the information of the clients.
 
-5. The Bank Marketing Data Set considered for this project is a small portion (10%) of the entire available data set. The data set has about 4119 rows of data with 19   
-   features and 1 column of Class information.
+5. The Bank Marketing Data Set considered for this project is a small portion (10%) of the entire available data set. The data set has about 4119 rows of data with 19  features and 1 column of Class information.
 
 6. The main issues of the dataset are:
 
-Preprocessing required to fill unknown values in the dataset
+      Preprocessing required to fill unknown values in the dataset
 
-Preprocessing required to decide on usage of categorical data along with continuous data
+      Preprocessing required to decide on usage of categorical data along with continuous data
 
-The data is class imbalanced (Number of class 1 (yes) is very low when compared to the number of Class 0 (no))
+      The data is class imbalanced (Number of class 1 (yes) is very low when compared to the number of Class 0 (no))
 
 7. Data Analysis Work done for this analysis include:
 
-Understanding of features
+      Understanding of features
 
-Preprocessing of features
+      Preprocessing of features
 
-K-Nearest Neighbor Classifier
+      K-Nearest Neighbor Classifier
 
-Random Forest Classifier
+      Random Forest Classifier
 
-ANN
+      ANN
 
-LigtGBM
+      LigtGBM
